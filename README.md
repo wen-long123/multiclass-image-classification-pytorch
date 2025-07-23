@@ -1,4 +1,4 @@
-# Image Classification with Custom and Pretrained VGG16 Models
+# Image Classification with Custom MLP, Custom and Pretrained VGG16 Models
 
 ## Project Overview
 
